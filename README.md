@@ -73,16 +73,16 @@ By converting raw relational banking data into dynamic visualizations, this tool
 
 ![Customer & Account Analytics Overview](https://github.com/mhdzaim18-create/Banking-Analytics-Risk-Performance-Dashboard-using-Power-BI/blob/main/Customer%20%26%20Account%20Analytics.png)
 
- 📸 Dashboard Preview
+ 📸 Dashboard Preview of Transaction & Branch Performance
 
-![Bank Analytics Dashboard Overview](dashboard_preview.png)
-
-
- 📸 Dashboard Preview
-
-![Bank Analytics Dashboard Overview](dashboard_preview.png)
+![Transaction & Branch Performance Overview](https://github.com/mhdzaim18-create/Banking-Analytics-Risk-Performance-Dashboard-using-Power-BI/blob/main/Transaction%20%26%20Branch%20Analysis.png)
 
 
- 📸 Dashboard Preview
+ 📸 Dashboard Preview of Loan Portfolio & Risk Performance
 
-![Bank Analytics Dashboard Overview](dashboard_preview.png)
+![Loan Portfolio & Risk Performance Overview](dashboard_preview.png)
+
+
+ 📸 Dashboard Preview of Summary & Conclusion 
+
+![Summary & Conclusion Overview](dashboard_preview.png)
