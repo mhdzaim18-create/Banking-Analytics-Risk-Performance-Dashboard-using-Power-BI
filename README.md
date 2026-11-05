@@ -65,7 +65,24 @@ By converting raw relational banking data into dynamic visualizations, this tool
  Audit Transparency: Flagged high-value transaction tables allow risk compliance teams to quickly isolate large individual withdrawals (e.g., $4,125.32 at Branch 44) for immediate fraud verification.
 
 
- 📸 Dashboard Preview
+ 📸 Dashboard Preview of Executive Banking Performance
 
 ![Executive Banking Performance Overview](https://github.com/mhdzaim18-create/Banking-Analytics-Risk-Performance-Dashboard-using-Power-BI/blob/main/Executive%20banking%20performance..png )
 
+ 📸 Dashboard Preview of Customer & Account Analytics
+
+![Customer & Account Analytics Overview](https://github.com/mhdzaim18-create/Banking-Analytics-Risk-Performance-Dashboard-using-Power-BI/blob/main/Customer%20%26%20Account%20Analytics.png)
+
+ 📸 Dashboard Preview
+
+![Bank Analytics Dashboard Overview](dashboard_preview.png)
+
+
+ 📸 Dashboard Preview
+
+![Bank Analytics Dashboard Overview](dashboard_preview.png)
+
+
+ 📸 Dashboard Preview
+
+![Bank Analytics Dashboard Overview](dashboard_preview.png)
