@@ -80,7 +80,7 @@ By converting raw relational banking data into dynamic visualizations, this tool
 
  📸 Dashboard Preview of Loan Portfolio & Risk Performance
 
-![Loan Portfolio & Risk Performance Overview](dashboard_preview.png)
+![Loan Portfolio & Risk Performance Overview](https://github.com/mhdzaim18-create/Banking-Analytics-Risk-Performance-Dashboard-using-Power-BI/blob/main/Loan%20Portfolio%20%26%20Risk%20Performance.png)
 
 
  📸 Dashboard Preview of Summary & Conclusion 
