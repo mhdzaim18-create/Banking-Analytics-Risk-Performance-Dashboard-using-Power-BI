@@ -85,4 +85,4 @@ By converting raw relational banking data into dynamic visualizations, this tool
 
  📸 Dashboard Preview of Summary & Conclusion 
 
-![Summary & Conclusion Overview](dashboard_preview.png)
+![Summary & Conclusion Overview](https://github.com/mhdzaim18-create/Banking-Analytics-Risk-Performance-Dashboard-using-Power-BI/blob/main/Summary%20%26%20Conclusion.png)
